@@ -1,0 +1,650 @@
+{
+ "q1": [
+  [
+   "PROD0210",
+   "Beauty Item 210",
+   "Beauty",
+   7.4
+  ],
+  [
+   "PROD0444",
+   "Groceries Item 444",
+   "Groceries",
+   7.3
+  ],
+  [
+   "PROD0472",
+   "Groceries Item 472",
+   "Groceries",
+   7.2
+  ],
+  [
+   "PROD0399",
+   "Electronics Item 399",
+   "Electronics",
+   7.1
+  ],
+  [
+   "PROD0294",
+   "Beauty Item 294",
+   "Beauty",
+   7.1
+  ],
+  [
+   "PROD0304",
+   "Groceries Item 304",
+   "Groceries",
+   7.1
+  ],
+  [
+   "PROD0087",
+   "Home Item 87",
+   "Home",
+   6.9
+  ],
+  [
+   "PROD0055",
+   "Beauty Item 55",
+   "Beauty",
+   6.9
+  ],
+  [
+   "PROD0300",
+   "Electronics Item 300",
+   "Electronics",
+   6.7
+  ],
+  [
+   "PROD0455",
+   "Beauty Item 455",
+   "Beauty",
+   6.6
+  ]
+ ],
+ "q2": [
+  [
+   "STR003",
+   "ShopSmart Lagos",
+   "Lagos",
+   102.2,
+   715,
+   142941.0
+  ],
+  [
+   "STR007",
+   "ShopSmart Ibadan",
+   "Oyo",
+   98.4,
+   668,
+   147238.0
+  ],
+  [
+   "STR021",
+   "ShopSmart Lagos",
+   "Lagos",
+   95.7,
+   699,
+   136896.0
+  ],
+  [
+   "STR005",
+   "ShopSmart Enugu",
+   "Enugu",
+   94.3,
+   681,
+   138475.0
+  ],
+  [
+   "STR010",
+   "ShopSmart Abuja",
+   "Abuja",
+   94.1,
+   680,
+   138315.0
+  ]
+ ],
+ "q2_bottom": [
+  [
+   "STR017",
+   "ShopSmart Abuja",
+   "Abuja",
+   84.9,
+   623,
+   136241.0
+  ],
+  [
+   "STR025",
+   "ShopSmart Asaba",
+   "Delta",
+   84.3,
+   641,
+   131473.0
+  ],
+  [
+   "STR002",
+   "ShopSmart Kano",
+   "Kano",
+   81.1,
+   632,
+   128271.0
+  ]
+ ],
+ "q3_customer_segment": [
+  [
+   "Bronze",
+   734.2,
+   135979.8,
+   1569
+  ],
+  [
+   "Gold",
+   762.6,
+   135429.8,
+   1623
+  ],
+  [
+   "Silver",
+   750.1,
+   136402.5,
+   1603
+  ]
+ ],
+ "q3_gender": [
+  [
+   "Female",
+   1074.3,
+   135373.2,
+   2344
+  ],
+  [
+   "Male",
+   1172.5,
+   136450.1,
+   2451
+  ]
+ ],
+ "q3_age_group": [
+  [
+   "18-25",
+   344.8,
+   132824.9,
+   730
+  ],
+  [
+   "26-35",
+   416.6,
+   136804.4,
+   887
+  ],
+  [
+   "36-45",
+   421.7,
+   134203.5,
+   896
+  ],
+  [
+   "46-55",
+   425.0,
+   138350.6,
+   894
+  ],
+  [
+   "56-70",
+   638.8,
+   136665.5,
+   1388
+  ]
+ ],
+ "top_customers": [
+  [
+   "CUST03257",
+   2.02
+  ],
+  [
+   "CUST01671",
+   2.02
+  ],
+  [
+   "CUST03050",
+   1.96
+  ],
+  [
+   "CUST02344",
+   1.89
+  ],
+  [
+   "CUST02253",
+   1.83
+  ],
+  [
+   "CUST01721",
+   1.79
+  ],
+  [
+   "CUST04267",
+   1.77
+  ],
+  [
+   "CUST01248",
+   1.67
+  ],
+  [
+   "CUST04068",
+   1.65
+  ],
+  [
+   "CUST03135",
+   1.64
+  ]
+ ],
+ "q4": [
+  [
+   "Beauty Item 271",
+   "Beauty",
+   29,
+   5,
+   17.2
+  ],
+  [
+   "Fashion Item 349",
+   "Fashion",
+   29,
+   5,
+   17.2
+  ],
+  [
+   "Beauty Item 429",
+   "Beauty",
+   35,
+   6,
+   17.1
+  ],
+  [
+   "Beauty Item 443",
+   "Beauty",
+   31,
+   5,
+   16.1
+  ],
+  [
+   "Home Item 451",
+   "Home",
+   31,
+   5,
+   16.1
+  ],
+  [
+   "Groceries Item 252",
+   "Groceries",
+   25,
+   4,
+   16.0
+  ],
+  [
+   "Home Item 42",
+   "Home",
+   25,
+   4,
+   16.0
+  ],
+  [
+   "Electronics Item 468",
+   "Electronics",
+   33,
+   5,
+   15.2
+  ],
+  [
+   "Beauty Item 269",
+   "Beauty",
+   27,
+   4,
+   14.8
+  ],
+  [
+   "Electronics Item 3",
+   "Electronics",
+   35,
+   5,
+   14.3
+  ]
+ ],
+ "reasons": {
+  "Late Delivery": 635,
+  "Wrong Item": 615,
+  "Customer Changed Mind": 611,
+  "Damaged": 581
+ },
+ "q5": {
+  "Jan": 193.2,
+  "Feb": 170.7,
+  "Mar": 191.9,
+  "Apr": 189.8,
+  "May": 183.0,
+  "Jun": 174.6,
+  "Jul": 188.0,
+  "Aug": 183.4,
+  "Sep": 186.1,
+  "Oct": 197.4,
+  "Nov": 187.7,
+  "Dec": 201.0
+ },
+ "q5_quarter": {
+  "1": 555.8,
+  "2": 547.5,
+  "3": 557.4,
+  "4": 586.1
+ },
+ "q6": [
+  [
+   "Beauty",
+   129.7,
+   126.2,
+   127.6,
+   139.6,
+   4.4,
+   7.6
+  ],
+  [
+   "Electronics",
+   109.5,
+   116.5,
+   117.8,
+   114.8,
+   2.9,
+   4.8
+  ],
+  [
+   "Fashion",
+   102.0,
+   97.9,
+   100.1,
+   112.2,
+   6.2,
+   10.0
+  ],
+  [
+   "Groceries",
+   118.6,
+   109.7,
+   115.1,
+   119.9,
+   2.9,
+   1.1
+  ],
+  [
+   "Home",
+   95.9,
+   97.1,
+   96.9,
+   99.6,
+   1.8,
+   3.8
+  ]
+ ],
+ "sup_most_products": [
+  [
+   "Martinez Ltd Supplies",
+   2
+  ],
+  [
+   "Garcia PLC Supplies",
+   2
+  ],
+  [
+   "Rosales PLC Supplies",
+   2
+  ]
+ ],
+ "sup_top_rev": [
+  [
+   "Thomas Ltd Supplies",
+   10.6,
+   6.5
+  ],
+  [
+   "Williams Group Supplies",
+   9.4,
+   5.8
+  ],
+  [
+   "Martinez Ltd Supplies",
+   9.2,
+   3.1
+  ]
+ ],
+ "low_total": 21,
+ "low_by_store": [
+  [
+   "STR006",
+   "ShopSmart Kaduna",
+   "Kaduna",
+   3
+  ],
+  [
+   "STR014",
+   "ShopSmart Port Harcourt",
+   "Rivers",
+   3
+  ],
+  [
+   "STR001",
+   "ShopSmart Abuja",
+   "Abuja",
+   2
+  ],
+  [
+   "STR009",
+   "ShopSmart Ibadan",
+   "Oyo",
+   2
+  ],
+  [
+   "STR018",
+   "ShopSmart Ibadan",
+   "Oyo",
+   2
+  ]
+ ],
+ "low_worst": [
+  [
+   "Home Item 302",
+   "STR013",
+   14,
+   46
+  ],
+  [
+   "Home Item 414",
+   "STR009",
+   13,
+   44
+  ],
+  [
+   "Electronics Item 165",
+   "STR014",
+   14,
+   45
+  ],
+  [
+   "Home Item 212",
+   "STR022",
+   12,
+   41
+  ],
+  [
+   "Electronics Item 146",
+   "STR021",
+   21,
+   47
+  ]
+ ],
+ "q9_region": [
+  [
+   "East",
+   624.0,
+   7,
+   89.1
+  ],
+  [
+   "North",
+   547.8,
+   6,
+   91.3
+  ],
+  [
+   "South",
+   724.5,
+   8,
+   90.6
+  ],
+  [
+   "West",
+   350.6,
+   4,
+   87.6
+  ]
+ ],
+ "q9_state": [
+  [
+   "Enugu",
+   94.3,
+   1,
+   94.3
+  ],
+  [
+   "Lagos",
+   377.2,
+   4,
+   94.3
+  ],
+  [
+   "Ogun",
+   185.9,
+   2,
+   93.0
+  ],
+  [
+   "Oyo",
+   368.0,
+   4,
+   92.0
+  ],
+  [
+   "Abuja",
+   355.2,
+   4,
+   88.8
+  ],
+  [
+   "Anambra",
+   88.5,
+   1,
+   88.5
+  ],
+  [
+   "Kaduna",
+   263.5,
+   3,
+   87.8
+  ],
+  [
+   "Delta",
+   261.8,
+   3,
+   87.3
+  ],
+  [
+   "Rivers",
+   171.2,
+   2,
+   85.6
+  ],
+  [
+   "Kano",
+   81.1,
+   1,
+   81.1
+  ]
+ ],
+ "return_by_channel": {
+  "In-Store": 5.04,
+  "Online": 4.62
+ },
+ "overall_return_rate": 4.83,
+ "kmeans": [
+  [
+   0.0,
+   1660.0,
+   62.15,
+   4.14,
+   0.57
+  ],
+  [
+   1.0,
+   957.0,
+   234.26,
+   1.97,
+   0.25
+  ],
+  [
+   2.0,
+   1505.0,
+   67.89,
+   2.31,
+   0.25
+  ],
+  [
+   3.0,
+   673.0,
+   50.48,
+   6.38,
+   1.02
+  ]
+ ],
+ "silhouette": {
+  "2": 0.364,
+  "3": 0.366,
+  "4": 0.316,
+  "5": 0.322,
+  "6": 0.295,
+  "7": 0.283
+ },
+ "kpis": {
+  "Total Revenue (Completed, after discount)": 2246837830.4999995,
+  "Total Revenue (all orders, for comparison)": 6819272748.250001,
+  "Total Orders (Completed)": 16529.0,
+  "Total Orders (all statuses)": 50000.0,
+  "Total Customers (bought, Completed)": 4795.0,
+  "Customers on file": 5000.0,
+  "Total Products (catalogue)": 500.0,
+  "Total Stores": 25.0,
+  "Total Quantity Sold (Completed)": 49432.0,
+  "Average Order Value (Completed)": 135933.07704640325,
+  "Average Selling Price (Completed, unit)": 50364.42295359671,
+  "Return Rate (returned / Completed orders)": 0.048278782745477644,
+  "Inventory Value (stock x cost price)": 3169020818.0
+ },
+ "emp": {
+  "total": 125,
+  "per_store": 5,
+  "no_manager": 9,
+  "corr_salary": -0.248,
+  "by_mgr": [
+   [
+    0.0,
+    9.0,
+    90.5
+   ],
+   [
+    1.0,
+    12.0,
+    89.1
+   ],
+   [
+    2.0,
+    4.0,
+    90.9
+   ]
+  ]
+ }
+}

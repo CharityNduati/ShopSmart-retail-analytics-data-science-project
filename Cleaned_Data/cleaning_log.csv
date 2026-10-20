@@ -1,0 +1,21 @@
+table,step,detail
+customers,duplicates,removed 0 exact duplicate rows
+products,duplicates,removed 0 exact duplicate rows
+orders,duplicates,removed 0 exact duplicate rows
+stores,duplicates,removed 0 exact duplicate rows
+returns,duplicates,removed 0 exact duplicate rows
+employees,duplicates,removed 0 exact duplicate rows
+suppliers,duplicates,removed 0 exact duplicate rows
+inventory,duplicates,removed 0 exact duplicate rows
+order_items,duplicates,removed 0 exact duplicate rows
+customers,dates,registration_date -> datetime (0 unparseable)
+employees,dates,hire_date -> datetime (0 unparseable)
+inventory,dates,last_restock_date -> datetime (0 unparseable)
+orders,dates,order_date -> datetime (0 unparseable)
+returns,dates,return_date -> datetime (0 unparseable)
+stores,dates,opening_date -> datetime (0 unparseable)
+customers,text,"stripped/title-cased ['gender', 'city', 'state', 'customer_segment']"
+stores,text,"stripped/title-cased ['region', 'state', 'city']"
+products,text,stripped/title-cased ['category']
+returns,duplicate orders,"kept first return per order_id, dropped 58 repeats"
+suppliers,brand key,derived brand from supplier_name (matches products.brand 1:1)

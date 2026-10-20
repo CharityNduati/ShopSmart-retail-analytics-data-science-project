@@ -1,0 +1,39 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# ---------- Virtual environments ----------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ---------- Editors and IDEs ----------
+.vscode/
+.idea/
+*.swp
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Office temp / lock files ----------
+~$*
+.~lock.*#
+
+# ---------- Secrets and local config ----------
+.env
+*.key
+*.pem
+
+# ---------- Optional: uncomment to keep the repo small ----------
+# data/            # raw CSVs (about 12 MB). Leave tracked if reviewers need to run the notebook.
+# Cleaned_Data/    # regenerated every time the notebook runs

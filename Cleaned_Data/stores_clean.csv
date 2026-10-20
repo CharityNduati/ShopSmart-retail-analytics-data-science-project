@@ -1,0 +1,26 @@
+store_id,store_name,region,state,city,opening_date
+STR001,ShopSmart Abuja,East,Abuja,Abuja,2020-01-31
+STR002,ShopSmart Kano,West,Kano,Kano,2020-03-01
+STR003,ShopSmart Lagos,South,Lagos,Lagos,2020-03-31
+STR004,ShopSmart Asaba,South,Delta,Asaba,2020-04-30
+STR005,ShopSmart Enugu,South,Enugu,Enugu,2020-05-30
+STR006,ShopSmart Kaduna,East,Kaduna,Kaduna,2020-06-29
+STR007,ShopSmart Ibadan,North,Oyo,Ibadan,2020-07-29
+STR008,ShopSmart Port Harcourt,North,Rivers,Port Harcourt,2020-08-28
+STR009,ShopSmart Ibadan,South,Oyo,Ibadan,2020-09-27
+STR010,ShopSmart Abuja,North,Abuja,Abuja,2020-10-27
+STR011,ShopSmart Kaduna,West,Kaduna,Kaduna,2020-11-26
+STR012,ShopSmart Abeokuta,South,Ogun,Abeokuta,2020-12-26
+STR013,ShopSmart Lagos,East,Lagos,Lagos,2021-01-25
+STR014,ShopSmart Port Harcourt,North,Rivers,Port Harcourt,2021-02-24
+STR015,ShopSmart Lagos,North,Lagos,Lagos,2021-03-26
+STR016,ShopSmart Abeokuta,East,Ogun,Abeokuta,2021-04-25
+STR017,ShopSmart Abuja,South,Abuja,Abuja,2021-05-25
+STR018,ShopSmart Ibadan,East,Oyo,Ibadan,2021-06-24
+STR019,ShopSmart Kaduna,South,Kaduna,Kaduna,2021-07-24
+STR020,ShopSmart Asaba,North,Delta,Asaba,2021-08-23
+STR021,ShopSmart Lagos,West,Lagos,Lagos,2021-09-22
+STR022,ShopSmart Awka,East,Anambra,Awka,2021-10-22
+STR023,ShopSmart Abuja,South,Abuja,Abuja,2021-11-21
+STR024,ShopSmart Ibadan,East,Oyo,Ibadan,2021-12-21
+STR025,ShopSmart Asaba,West,Delta,Asaba,2022-01-20
